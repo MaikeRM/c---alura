@@ -1,10 +1,9 @@
 #include<iostream>
 
 int main(){
-    sdt::cout << "*************************************\n";
-    sdt::cout << "* Bem vindos ao jogo da adivinhação \n*";
-    sdt::cout << "*************************************\n";
-
+    std::cout << "*************************************\n";
+    std::cout << "* Bem vindos ao jogo da adivinhação \n*";
+    std::cout << "*************************************\n";
 }
 
 
